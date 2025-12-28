@@ -2,6 +2,7 @@
 LICENSE AGREEMENT
 In relation to this Python file:
 1. Copyright of this Python file is owned by the author: Mark Misin
+# Modified and extended by Arpita Priyadarshini Sahoo
 2. This Python code can be freely used and distributed
 3. The copyright label in this Python file such as
 copyright=ax_main.text(x,y,'© Mark Misin Engineering',size=z)
