@@ -10,6 +10,12 @@ that indicate that the Copyright is owned by Mark Misin MUST NOT be removed.
 WARRANTY DISCLAIMER!
 This Python file comes with absolutely NO WARRANTY! In no event can the author of this Python file be held responsible for whatever happens in relation to this Python file. For example, if there is a bug in the code and because of that a project, invention, or whatever it is used for fails - the author is NOT RESPONSIBLE!
 '''
+"""
+PID Control System Simulation
+Author: Arpita P. Sahoo
+Purpose: Educational simulation of PID control with visualization
+"""
+
 
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
